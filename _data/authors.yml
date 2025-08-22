@@ -8,13 +8,9 @@ author1:
   # Used at the bottom of each page and at the top of the `about` layout
   # Markdown enabled, can use multiple paragraphs (enabled by `|`)
   about:             |
-    Proficiency in: Unreal Engine (C++/Blueprints) & Unity (C#) 
-    Core Focus: Designing and implementing robust, modular, and high-performance game systems.
-    Experience:
-     - Main Programmer at a Praenaris project, developing and refactoring a free-to-play Unity title. 
-     - Collaborated on multiple game projects as a programmer.  
-
-    Team Collaboration: Actively contributes to overcoming technical challenges within a collaborative environment.
+    Hi, I’m Ángel a Video Game Developer specialized in programming. 
+    I’m a  passionate about creating modular, scalable, and high-performance systems.
+    I work mainly with Unreal Engine (C++/Blueprints) and Unity (C#), and I enjoy turning ideas into playable, polished experiences.
     
   # This photo will be used in the about section
   picture:

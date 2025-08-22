@@ -28,8 +28,6 @@ author:
 menu:
   - title:             Projects
     url:               /projects/
-  - title:             Blog
-    url:               /docs/
   - title:             About Me
     url:               /about/
 
@@ -63,7 +61,7 @@ theme: jekyll-theme-hydejack
 # ----------------------------------------------------------------------------------------
  
 # Sidebar image and theme color of the site.
-accent_image:          /assets/img/mainBG.jpg
+accent_image:          /assets/img/BG_Main_Blur.jpg
 accent_color:          rgb(158,105,178)
 theme_color:           rgb(158,105,178)
 
