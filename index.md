@@ -13,7 +13,7 @@ I work mainly with **Unreal Engine (C++/Blueprints)** and **Unity (C#)**, and I 
 On this site you’ll find my **[latest projects](/projects/)**, technical solutions, and experiments in game development.  
 It’s both my portfolio and a place to share what I learn along the way.  
 
-When I’m not programming, I dive into indie games or test my patience on a Souls-like boss, all in search of design and gameplay inspiration.   
+When I’m not programming, I dive into indie games or test my patience on a Souls-like boss, all in search of design and gameplay inspiration.😉 
 {:.faded}
 
 ## Latest Projects
