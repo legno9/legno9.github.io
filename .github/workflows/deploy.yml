@@ -33,7 +33,10 @@ jobs:
           bundle install
 
       - name: Build site with Jekyll
-        run: bundle exec jekyll build --trace
+        run: |
+          rm -rf _site
+          bundle exec jekyll build --trace
+          touch _site/.force
 
       - name: Upload artifact
         uses: actions/upload-pages-artifact@v3
