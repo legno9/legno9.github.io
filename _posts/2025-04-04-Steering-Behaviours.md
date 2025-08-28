@@ -49,22 +49,22 @@ All behaviours are calculated every tick in **Blueprints** and combined into a f
 
 - **Cohesion (Green):** pulls each agent towards the center of its neighbors. In Unreal, this is done by averaging neighbor positions and generating a force in that direction.
 
-![Image of cohesion](/assets/img/posts/SteeringBehaviours/SteeringBehaviours_Cohesion.jpg)  
+![Image of cohesion](/assets/img/posts/SteeringBehaviours/SteeringBehaviours_Cohesion.png)  
 
 
 - **Separation (Red):** pushes agents apart to prevent collisions. Implemented by calculating repulsion vectors that grow stronger the closer two agents are.  
 
-![Image of separation](/assets/img/posts/SteeringBehaviours/SteeringBehaviours_Separation.jpg)
+![Image of separation](/assets/img/posts/SteeringBehaviours/SteeringBehaviours_Separation.png)
 
 
 - **Alignment (Blue):** aligns each agent with the average heading of its neighbors. In Blueprints, this means weighting neighbors’ velocities and steering towards that combined direction.  
 
-![Image of alignment](/assets/img/posts/SteeringBehaviours/SteeringBehaviours_Aligment.jpg)
+![Image of alignment](/assets/img/posts/SteeringBehaviours/SteeringBehaviours_Aligment.png)
 
 
 - **Obstacle Avoidance (Yellow):** prevents collisions with objects. A forward **Line Trace** detects obstacles and applies a repulsion force based on the hit normal.  
 
-![Image of Obstacle avoidance](/assets/img/posts/SteeringBehaviours/SteeringBehaviours_OAvoindance.jpg)
+![Image of Obstacle avoidance](/assets/img/posts/SteeringBehaviours/SteeringBehaviours_OAvoindance.png)
 
 
 ## Final Movement (Black)
