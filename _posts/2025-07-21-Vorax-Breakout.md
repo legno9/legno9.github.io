@@ -4,11 +4,11 @@ title: Vorax Breakout
 description: >
   Vorax Breakout is a turn-based roguelike developed in Unity as a master's final project.
 image: 
-  path: /assets/img/posts/VoraxBreakout_Main.png
+  path: /assets/img/posts/VoraxBreakout/VoraxBreakout_Main.png
 srcset:
-    1920w: /assets/img/posts/VoraxBreakout_Main.png
-    960w:  /assets/img/posts/VoraxBreakout_Main@0,5x.png
-    480w:  /assets/img/posts/VoraxBreakout_Main@0,25x.png
+    1920w: /assets/img/posts/VoraxBreakout/VoraxBreakout_Main.png
+    960w:  /assets/img/posts/VoraxBreakout/VoraxBreakout_Main@0,5x.png
+    480w:  /assets/img/posts/VoraxBreakout/VoraxBreakout_Main@0,25x.png
 excerpt_separator: <!--more-->
 sitemap: true
 hide_last_modified: true
@@ -23,7 +23,7 @@ In [**Vorax Breakout**](https://eva-qube.itch.io/vorax-breakout), players manage
 
 ---
 
-![Combat phase](/assets/img/posts/VoraxBreakout_Battle.gif)
+![Combat phase](/assets/img/posts/VoraxBreakout/VoraxBreakout_Battle.gif)
 
 ## Project Context
 
@@ -39,11 +39,11 @@ The demo serves as a proof of concept for strategic mechanics, modular content, 
 - Easily add new creatures, abilities, or mechanics without touching the core code.  
 - Family effects, passive/active abilities, and combat states dynamically handled.
 
-![Diagram of architecture](/assets/img/posts/VoraxBreakout_Main_Architecture00.png)
+![Diagram of architecture](/assets/img/posts/VoraxBreakout/VoraxBreakout_Main_Architecture00.png)
 
 ---
 
-![Diagram of scriptable objects](/assets/img/posts/VoraxBreakout_Main_Architecture01.png)
+![Diagram of scriptable objects](/assets/img/posts/VoraxBreakout/VoraxBreakout_Main_Architecture01.png)
 
 #### 2. Interactive Tutorial
 - Guides new players through game mechanics step-by-step.  
@@ -51,7 +51,7 @@ The demo serves as a proof of concept for strategic mechanics, modular content, 
 - Modular and adaptable for future expansion.  
 - Includes tooltips and optional videos for clarity.
 
-![GIF showing tutorial in action](/assets/img/posts/VoraxBreakout_Tutorial.gif)
+![GIF showing tutorial in action](/assets/img/posts/VoraxBreakout/VoraxBreakout_Tutorial.gif)
 
 ## Gameplay Snapshot
 
@@ -61,7 +61,7 @@ The demo serves as a proof of concept for strategic mechanics, modular content, 
 2. **Combat:** Automated resolution of abilities, damage, and status effects.  
 3. **Rewards:** Choose new Vorax to add or replace in the team.
 
-![Screenshot showing inventory and combat interface](/assets/img/posts/VoraxBreakout_Preparation.gif)
+![Screenshot showing inventory and combat interface](/assets/img/posts/VoraxBreakout/VoraxBreakout_Preparation.gif)
 
 ---
 
