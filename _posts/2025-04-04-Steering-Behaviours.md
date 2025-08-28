@@ -29,7 +29,7 @@ The goal was to experiment with how different behaviours interact when combined,
 Steering behaviours are a classic set of techniques in **artificial intelligence for games**, especially when dealing with groups of agents (commonly called *boids*).  
 They allow autonomous agents to move in a way that feels **natural, organic, and responsive**, without needing predefined paths or animations.  
 
-👉 [**Try it yourself here**](https://legno9.itch.io/steeringbehaviours)  
+👉 [**Try it out yourself**](https://legno9.itch.io/steeringbehaviours)  
 
 In the demo, you can move sliders to define how much each behaviour (from `0` to `1`) affects the movement of the agents (balls).  
 
