@@ -29,12 +29,11 @@ Appropriate credit as per Creative Commons licenses.
 
 | Work                                                   | License        | Changes
 |:-------------------------------------------------------|:---------------|:-
-| Photo by [Jeremy Bishop][jb]                           | [Unsplash]     | Liquify filter, blur
-| Photo by [Caleb George][cg]                            | [Unsplash]     | Liquify filter, patch tool, blur
+| Background by [Freepik][fp]                           | [Freepick]     | Blur
 | [IcoMoon Icons Free Version][11] by [Keyamoon][12]     | [CC-BY-SA-4.0] | None
 | [Touch-161562.svg][41]                                 | [CC0-1.0]      | Composition
 
-[jb]: https://unsplash.com/photos/1braZySlEKA
+[fp]: https://www.freepik.com/free-vector/gradient-lo-fi-illustration_25610027.htm
 [cg]: https://unsplash.com/photos/AtvuPUenaeI
 [11]: https://icomoon.io/#icons-icomoon
 [12]: http://keyamoon.com/
@@ -288,5 +287,5 @@ THIS SOFTWARE IS PROVIDED BY THE COPYRIGHT HOLDERS AND CONTRIBUTORS "AS IS" AND 
 [CC-BY-SA-4.0]: https://creativecommons.org/licenses/by-sa/4.0/
 [CC-BY-SA-3.0]: https://creativecommons.org/licenses/by-sa/3.0/
 [CC0-1.0]: https://creativecommons.org/publicdomain/zero/1.0/deed.en
-[Unsplash]: https://unsplash.com/license
+[Freepick]: https://support.freepik.com/s/article/Attribution-How-when-and-where?language=en_US
 

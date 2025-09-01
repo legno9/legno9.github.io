@@ -4,6 +4,7 @@ image: /assets/img/blog/hydejack-9.jpg
 description: >
   Portfolio and CV of Ángel Formoso Caamaño — Software Developer, Game Programmer and AI Enthusiast.
 hide_description: true
+sitemap: true
 ---
 
 * toc
@@ -35,4 +36,5 @@ In case you were looking for my resume:
 - 📧 **Email:** [angel.formoso.caamano@gmail.com](mailto:angel.formoso.caamano@gmail.com)  
 - 💼 **LinkedIn:** [linkedin.com/in/ÁngelFormosoCaamaño](https://www.linkedin.com/in/%C3%A1ngel-formoso-caama%C3%B1o/)  
 - 🌐 **GitHub:** [github.com/legno9](https://github.com/legno9)  
-- 👾 **Itch.io:** [https://legno9.itch.io/](https://legno9.itch.io/)
+- 👾 **Itch.io:** [legno9.itch.io/](https://legno9.itch.io/)
+- 🕹️ **Steam:** [store.steampowered.com/Arima_Lodge/](https://store.steampowered.com/app/3310190/Arima_Lodge/)
