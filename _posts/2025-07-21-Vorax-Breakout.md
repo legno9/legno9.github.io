@@ -9,6 +9,7 @@ srcset:
     1920w: /assets/img/posts/VoraxBreakout/VoraxBreakout_Main.png
     960w:  /assets/img/posts/VoraxBreakout/VoraxBreakout_Main@0,5x.png
     480w:  /assets/img/posts/VoraxBreakout/VoraxBreakout_Main@0,25x.png
+categories: [Unity]
 excerpt_separator: <!--more-->
 sitemap: true
 hide_last_modified: true

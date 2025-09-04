@@ -9,6 +9,7 @@ srcset:
     1920w: /assets/img/posts/ProyectoManthano/ProyectoManthano_Main.png
     960w:  /assets/img/posts/ProyectoManthano/ProyectoManthano_Main@0,5x.png
     480w:  /assets/img/posts/ProyectoManthano/ProyectoManthano_Main@0,25x.png
+categories: [Unity]
 excerpt_separator: <!--more-->
 sitemap: true
 hide_last_modified: true
@@ -72,4 +73,4 @@ Completing **Proyecto Manthanō** allowed me to:
 
 The final demo showcases not only a playable game but also my ability to manage a project end-to-end, from concept and design to coding and art production.  
 
-[Try it out Doom of tools!](https://legno9.itch.io/doom-of-tools)
+[Try out Doom of tools!](https://legno9.itch.io/doom-of-tools)
