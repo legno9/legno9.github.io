@@ -4,11 +4,11 @@ title: Supermarket Rush
 description: >
   Supermarket Rush is a simple 3-lane runner game made in Unreal Engine with Blueprints. Players compete to reach the supermarket first while avoiding cars and collecting coins and power-ups.
 image: 
-  path: /assets/img/posts/SupermarketRush/SupermarketRush_Main.png
+  path: /assets/img/posts/SupermarketRush/SupermarketRush_Menu.png
 srcset:
-    1920w: /assets/img/posts/SupermarketRunner/SupermarketRush_Main.png
-    960w:  /assets/img/posts/SupermarketRunner/SupermarketRush_Main@0,5x.png
-    480w:  /assets/img/posts/SupermarketRunner/SupermarketRush_Main@0,25x.png
+    1920w: /assets/img/posts/SupermarketRush/SupermarketRush_Menu.png
+    960w:  /assets/img/posts/SupermarketRush/SupermarketRush_Menu@0,5x.png
+    480w:  /assets/img/posts/SupermarketRush/SupermarketRush_Menu@0,25x.png
 categories: [Unreal]
 excerpt_separator: <!--more-->
 sitemap: true
@@ -33,31 +33,31 @@ Developed in just **one week as a team project**, **Supermarket Rush** is a 3-la
 
 The main goal is **to outpace your opponent**, combining quick reflexes with strategic collection and use of power-ups.
 
-![Supermarket Rush Screenshot](/assets/img/posts/SupermarketRush/SupermarketRush_Menu.png)
+![Supermarket Rush Screenshot](/assets/img/posts/SupermarketRush/SupermarketRush_Main.png)
 
 ---
 
 ## My Contributions
 
-I focused on the **player character and core gameplay systems**, ensuring smooth and responsive interactions:
+I focused on the **player character and core gameplay systems**, making interactions responsive and consistent:
 
-- **Character Movement:** Implemented lane switching, forward movement, gradual acceleration, and input handling for both single and local multiplayer setups.  
-- **Collision Handling:** Programmed reactions to collisions with cars, including triggering the death animation and resetting the player state.  
-- **Power-Up & Coin Integration:** Developed the collection system and UI feedback, allowing players to pick up power-ups and coins; I integrated the effects for the player, though the actual gameplay logic for each power-up was implemented by a teammate.  
-- **Animation Integration:** Created Blueprint-based animations for running, lane switching, and collision events, ensuring visual feedback aligns with gameplay.  
-
-Although **AI behavior and power-up effects were handled by other team members**, I made sure the player experience was seamless and all interactive elements worked correctly.
+- **Character Movement:** Lane switching, forward progression, acceleration, and input handling for both single and local multiplayer.  
+- **Collision Handling:** Programmed reactions to crashes, including triggering the death animation and resetting the player.  
+- **Power-Up & Coin Integration:** Built the collection system and feedback UI. I connected power-ups to the player, while a teammate implemented their specific effects.  
+- **Animation Integration:** Created Blueprint-based animations for running, switching, and collisions to ensure clear visual feedback.  
 
 ---
 
 ## Reflection
 
-Developing **Supermarket Rush** in just a week was an excellent exercise in **rapid prototyping, teamwork, and iterative design**:
+Developing **Supermarket Rush** in one week was an excellent exercise in **rapid prototyping, teamwork, and iteration**:
 
-- Unreal Engine **Blueprints enabled fast implementation** of player movement, collisions, and collection systems.  
-- Coordinating with teammates required careful integration of **player input, animations, and power-up feedback**, highlighting the importance of modular design and testing.  
-- Despite its simplicity, the project demonstrates how **well-polished mechanics and competitive elements** can create engaging gameplay experiences in a short time.
+- Unreal Engine **Blueprints enabled quick implementation** of movement, collisions, and pickups.  
+- Coordinating with teammates showed the value of **modular design and careful integration**.  
+- Despite its simplicity, the project demonstrates how **polished mechanics and competitive elements** can create engaging gameplay in a short timeframe.
 
 ---
 
-## [Try it out now](https://legno9.itch.io/supermarket-rush)
+## Link  
+
+- 🕹️ [Try out Supermarket Rush!](https://legno9.itch.io/supermarket-rush)

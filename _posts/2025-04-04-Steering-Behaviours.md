@@ -30,7 +30,7 @@ The goal was to experiment with how different behaviours interact when combined,
 Steering behaviours are a classic set of techniques in **artificial intelligence for games**, especially when dealing with groups of agents (commonly called *boids*).  
 They allow autonomous agents to move in a way that feels **natural, organic, and responsive**, without needing predefined paths or animations.  
 
-👉 [**Try it out yourself**](https://legno9.itch.io/steeringbehaviours)  
+👉 [**Try it out yourself!**](https://legno9.itch.io/steeringbehaviours)  
 
 In the demo, you can move sliders to define how much each behaviour (from `0` to `1`) affects the movement of the agents (balls).  
 
@@ -39,10 +39,6 @@ In the demo, you can move sliders to define how much each behaviour (from `0` to
 - **Green arrow** → cohesion force.  
 - **Blue arrow** → alignment force.  
 - **Yellow arrow** → obstacle avoidance.  
-
-## Implemented Behaviours in Unreal Engine
-
-All calculations are performed **every tick** for each agent (ball). The logic was built entirely using **Blueprints**.
 
 ## Implemented Behaviours in Unreal Engine
 
@@ -60,7 +56,7 @@ All behaviours are calculated every tick in **Blueprints** and combined into a f
 
 - **Alignment (Blue):** aligns each agent with the average heading of its neighbors. In Blueprints, this means weighting neighbors’ velocities and steering towards that combined direction.  
 
-![Image of alignment](/assets/img/posts/SteeringBehaviours/SteeringBehaviours_Aligment.png)
+![Image of alignment](/assets/img/posts/SteeringBehaviours/SteeringBehaviours_Alignment.png)
 
 
 - **Obstacle Avoidance (Yellow):** prevents collisions with objects. A forward **Line Trace** detects obstacles and applies a repulsion force based on the hit normal.  
@@ -77,5 +73,6 @@ Forces reset each tick, ensuring smooth and dynamic motion that depends only on 
 
 ## Conclusion
 
-This small Unreal Engine project was a great way to practice both **vector math** and **AI programming for agents**.  
-Even with just a handful of behaviours, the resulting motion feels dynamic and natural, and adjusting the sliders makes the demo an effective tool for **learning and experimentation**.
+This project was a great way to practice both **vector math** and **agent-based AI programming**.  
+Even with just four behaviours, the result feels dynamic and lifelike. Real-time tuning with sliders makes the demo an effective tool for **learning, testing, and experimenting**.
+

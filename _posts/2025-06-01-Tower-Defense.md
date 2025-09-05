@@ -40,28 +40,28 @@ The two implementations differ in **tools and workflow**:
 
 ---
 
-### [C++ version on github](https://github.com/legno9/Cpp_towerDefense)  
+- 💻 [C++ version on github](https://github.com/legno9/Cpp_towerDefense)  
 
 ## C++ SFML Version
 
-The C++ implementation focused on **low-level control and modular design**:
+Focused on **low-level control and modularity**:
 
 - **Game Architecture:** Managers for rendering, objects, UI, input, and assets. Object lifecycles handled manually with `std::unique_ptr`.  
-- **Data-Driven Design:** Enemy stats, tower properties, wave layouts, and animations stored in JSON files for easy configuration.  
-- **Animation & Event System:** Frame-based callbacks synchronize attacks and projectiles with animations.  
-- **Custom UI:** Fully built HUD and tower selection interface using SFML primitives.  
+- **Data-Driven Design:** Stats, properties, waves, and animations stored in JSON.  
+- **Animation & Events:** Frame-based callbacks to sync attacks with animations.  
+- **Custom UI:** HUD fully built with SFML primitives.  
 
 #### Key Advantages
 
-1. **Maximum Control:** Every object, update, and memory allocation is explicit.  
-2. **Performance:** Direct memory access and no runtime overhead.  
-3. **Flexibility:** Full freedom to implement mechanics exactly as desired.  
+1. **Full Control:** Every object and memory allocation explicit.  
+2. **Performance:** No engine overhead.  
+3. **Flexibility:** Freedom to implement mechanics exactly as intended.  
 
 #### Challenges
 
-- Manual memory management and object lifecycle required careful design.  
-- More development time due to coding every system from scratch.  
-- Complex systems needed careful implementation.  
+- Manual memory management required caution.  
+- Slower development due to coding every system.  
+- Complex systems demanded careful design.   
 
 ![C++ gameplay image](/assets/img/posts/TowerDefense/TowerDefense_CPP.png)
 
@@ -69,23 +69,23 @@ The C++ implementation focused on **low-level control and modular design**:
 
 ---
 
-### [Unity version on github](https://github.com/legno9/TD-OniSiege)
+- 💻 [Unity version on github](https://github.com/legno9/TD-OniSiege)
 
 ## Unity C# Version
 
 The Unity version prioritized **rapid development and polish**:
 
-- **Scriptable Objects & Prefabs:** Modular architecture for enemies, towers, waves, and stats.  
-- **Built-in UI Components:** Easy implementation of HUD, tower selection bar, and interactive elements.  
-- **Enhanced Visuals:** Multiple levels, improved animations, and special effects.  
-- **Modular Game Systems:** Health, enemies, towers, waves, and attacks designed for easy expansion.  
+- **Scriptable Objects & Prefabs:** Modular data-driven design.  
+- **Built-in UI:** Quick setup of HUD, tower bar, and menus.  
+- **Improved Visuals:** Multiple levels, animations, effects.  
+- **Reusable Systems:** Health, towers, enemies, and attacks designed for easy expansion.  
 
 #### Key Advantages
 
-1. **Faster Development:** The same game implemented in **1 week** instead of 3–4.  
-2. **Rapid Iteration:** Drag-and-drop assets and prefabs simplified workflow.  
-3. **Engine Tools:** Built-in animation and UI components reduce boilerplate.  
-4. **Automatic Lifecycle & Memory Management:** Garbage collection handles objects safely, reducing potential errors.  
+1. **Fast Development:** 1 week vs 3–4 weeks.  
+2. **Quick Iteration:** Drag-and-drop workflow.  
+3. **Engine Tools:** Animation and UI built-in.  
+4. **Automatic Lifecycle:** Garbage collection simplifies memory handling, reducing potential errors. 
 
 ![Unity gameplay image](/assets/img/posts/TowerDefense/TowerDefense_Main.png)
 
@@ -93,7 +93,7 @@ The Unity version prioritized **rapid development and polish**:
 
 ---
 
-## Technical Challenge: Predictive Health & Dirty Flags
+## Technical Challenges:
 
 Both versions required a **predictive health system** to optimize turret behavior:
 
@@ -107,21 +107,26 @@ This system ensures **no wasted projectiles** and efficient targeting. The imple
 
 ## Reflection
 
-Developing the same game twice highlights the trade-offs of **low-level versus engine-driven development**:
+Developing the same game twice highlighted the trade-offs of **low-level vs engine-driven development**:
 
 | Feature | C++ SFML | Unity C# |
 |---------|-----------|----------|
 | Development Time | 3–4 weeks | 1 week |
-| Control | Absolute | Medium (engine handles low-level details) |
-| Performance | High, optimized | Medium |
-| Memory Management | Manual, explicit | Automatic, garbage collected |
-| Modularity & Expansion | Requires careful design | Scriptable Objects & Prefabs simplify it |
-| UI & Visuals | Custom built | Built-in components |
+| Control | Absolute | Medium (engine-managed) |
+| Performance | High | Medium |
+| Memory Management | Manual | Automatic |
+| Modularity | Requires custom design | Built-in (SO & Prefabs) |
+| UI & Visuals | Fully custom | Built-in components |
 
-**Takeaways:**  
+---
 
-- C++ offers **maximum control, speed, and memory management**, but requires careful planning and longer development.  
-- Unity allows **fast iteration, easy content management, and polished presentation**, making it ideal for rapid prototyping.  
-- Both approaches reinforce **game architecture principles**, modular design, and gameplay optimization.
+**Key Takeaways:**  
+- C++ gives **maximum control and performance**, but at higher cost in time and complexity.  
+- Unity enables **fast prototyping, polish, and modular expansion**.  
+- Both reinforce principles of **game architecture and optimization**.
 
-### [Try them out on itch.io](https://legno9.itch.io/tower-defense-c-vs-unity)
+---
+
+## Links  
+
+- 🕹️ [Try both versions on itch.io!](https://legno9.itch.io/tower-defense-c-vs-unity) 

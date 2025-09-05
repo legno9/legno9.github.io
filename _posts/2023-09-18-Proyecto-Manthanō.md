@@ -15,9 +15,9 @@ sitemap: true
 hide_last_modified: true
 ---
 
-**Proyecto Manthanō** was my final degree project, a solo challenge to learn **Unity** and create a complete game from scratch. The result is **Doom of Tools**, a 2D turn-based, deck-building roguelite inspired by **Slay the Spire** and **Into the Breach**.  
+**Proyecto Manthanō** was my final degree project: a solo challenge to learn **Unity** while creating a complete game from scratch. The result is **Doom of Tools**, a 2D turn-based, deck-building roguelite inspired by **Slay the Spire** and **Into the Breach**.  
 
-Almost every aspect of the game—programming, mechanics, design, art, and animation—was developed by me. Players control "tool-humans," cursed by the demon Bael, battling through the underworld on grid-based maps using strategic card-based abilities. Each run is procedurally generated, offering unique challenges and requiring constant adaptation. 
+Every aspect of the game—programming, mechanics, design, art, and animation—was developed by me. Players control "tool-humans," cursed by the demon Bael, battling through the underworld on grid-based maps using strategic card-based abilities. Each run is procedurally generated, offering unique challenges and requiring constant adaptation. 
 
 <!--more-->
 
@@ -36,6 +36,7 @@ The main goal was to **learn Unity independently** while producing a playable de
 4. **Demo Development:** Built the final demo with all core mechanics, balancing gameplay and producing content iteratively.  
 
 This approach allowed me to develop both technical and creative skills simultaneously, reinforcing my self-learning abilities and project management.
+
 
 ![Image of gameplay](/assets/img/posts/ProyectoManthano/ProyectoManthano_Gameplay00.png)
 
@@ -67,10 +68,12 @@ This approach allowed me to develop both technical and creative skills simultane
 ## Reflection
 
 Completing **Proyecto Manthanō** allowed me to:  
-- Fully integrate **Unity, C#, and pixel art skills** into a complete project.  
-- Understand my strengths and weaknesses in independent game development.  
-- Experience the challenges of balancing ambition and scope when creating a solo project.  
+- Combine **Unity, C#, and pixel art** into a complete project.  
+- Understand scope management in solo projects.  
+- Prove my adaptability and independence as a developer.  
 
-The final demo showcases not only a playable game but also my ability to manage a project end-to-end, from concept and design to coding and art production.  
+The final demo is not only a game but also a showcase of **end-to-end production experience**. 
 
-[Try out Doom of tools!](https://legno9.itch.io/doom-of-tools)
+## Link  
+
+- 🕹️ [Try out Doom of tools!](https://legno9.itch.io/doom-of-tools)

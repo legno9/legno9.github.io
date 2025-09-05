@@ -33,15 +33,14 @@ It’s a **short 10-minute story**, set in a near-future dystopia inside a singl
 During the remake I implemented a wide range of improvements, including:  
 
 ---
-- 🌍 **Adaptation to multiple languages**  
-- ✍️ **Better text generation**  
+- 🌍 **Localization to multiple languages**  
+- ✍️ **Better text handling**  
 - 📖 **Expanded narrative options**  
 - 🎭 **Improved animations**  
 - ⏱️ **Refined timing**  
 - 💬 **Updated dialogues**  
 - 🔀 **Multiple endings**  
-- …and many more **polish details** that elevated the whole experience.  
-
+- …plus many other polish details that elevated the experience.  
 ---
 
 ## Gameplay  
@@ -52,19 +51,15 @@ The experience is simple but effective:
 
 The result is short, immersive, and full of urgency. It makes you feel both trapped and curious about what’s waiting at the top.  
 
-![Image of gameplay](/assets/img/posts/ArimaLodge/ArimaLodge_Screenshoot.png)  
+![Image of gameplay](/assets/img/posts/ArimaLodge/ArimaLodge_Screenshot.png)  
 
 ---
 
-## Style and Atmosphere  
-The game uses a **low-poly visual style with a Victorian-inspired dystopia**, which works surprisingly well. The fixed camera inside the elevator amplifies the claustrophobic feeling, while the soundtrack by **Francisco Ruiz Arroyo** pushes the tension higher with each floor — a perfect crescendo that builds pressure all the way up.  
 
----
+## Reflection  
+Working on *Arima Lodge* in Unity was both a **technical challenge and creative rediscovery**. I had to **rebuild broken systems while aligning them with the narrative**, but it was rewarding to see how a jam-born idea found a polished second life.  
 
-## Final Thoughts  
-Working on *Arima Lodge* in Unity was, for me, a mix of **technical challenge and creative rediscovery**. I had to **go through every line, rebuild what was broken, and bring coherence to the project**, but it was also rewarding to see how a jam-born game that seemed destined to fade away found a second life.  
-
-It’s a **short, free, and very recommendable** game. You can finish it in under ten minutes, but it leaves you with the feeling of wanting more. Personally, I’d love to see this idea evolve into a bigger project — it already feels like the perfect intro to a longer narrative experience.  
+It’s a **short, free, and highly recommendable** experience. You can finish it in under ten minutes, but it leaves you wanting more.
 
 ---
 

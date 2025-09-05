@@ -28,17 +28,19 @@ In [**Vorax Breakout**](https://eva-qube.itch.io/vorax-breakout), players manage
 
 ## Project Context
 
-Developed as a collaborative effort, this project aimed to demonstrate **advanced game programming skills**, create a **scalable, modular game architecture**, and provide a **replayable demo** ready for potential expansion.  
+Developed collaboratively as a **master’s final project**, the goal was to showcase **advanced programming**, design a **modular, scalable architecture**, and deliver a **replayable demo** ready for future features like node-based maps or asynchronous PvP.  
 
-The demo serves as a proof of concept for strategic mechanics, modular content, and engaging gameplay, laying the foundation for further development like node-based maps and asynchronous PvP.
+The demo serves as a proof of concept for both strategic mechanics and modular content.
+
 
 ## My Contributions
 
-#### 1. Modular Game Architecture
+### 1. Modular Game Architecture
 
 - **Core systems built with Scriptable Objects**, separating data from behavior.  
 - Easily add new creatures, abilities, or mechanics without touching the core code.  
-- Family effects, passive/active abilities, and combat states dynamically handled.
+- Designed and implemented the **attack priority system**, which dynamically calculates the main target and affected targets based on multiple criteria (lane, HP, HP ratio, randomness, etc.).   
+
 
 ![Diagram of architecture](/assets/img/posts/VoraxBreakout/VoraxBreakout_Main_Architecture00.png)
 
@@ -46,11 +48,10 @@ The demo serves as a proof of concept for strategic mechanics, modular content, 
 
 ![Diagram of scriptable objects](/assets/img/posts/VoraxBreakout/VoraxBreakout_Main_Architecture01.png)
 
-#### 2. Interactive Tutorial
-- Guides new players through game mechanics step-by-step.  
-- Highlights UI elements and important actions.  
-- Modular and adaptable for future expansion.  
-- Includes tooltips and optional videos for clarity.
+### 2. Interactive Tutorial
+- Guided players step by step through mechanics.  
+- Highlighted UI and actions with tooltips and optional videos.  
+- Built modularly to support future additions.  
 
 ![GIF showing tutorial in action](/assets/img/posts/VoraxBreakout/VoraxBreakout_Tutorial.gif)
 
@@ -68,11 +69,21 @@ The demo serves as a proof of concept for strategic mechanics, modular content, 
 
 ## Technical Highlights
 
-- **Scalable, modular architecture** with Scriptable Objects.  
-- **Integrated, interactive tutorial** supporting new players.  
-- **Dynamic combat system** handling multiple Vorax interactions and passive/active effects.  
-- **UI/UX optimizations** for clarity in a visually rich, autobattler interface.
+- **Scalable, modular architecture** with Scriptable Objects, separating data from behavior.  
+- **Dynamic attack priority system**: determines targets based on lane, HP, or randomness, fully supporting new abilities and Vorax types.  
+- **Integrated, interactive tutorial** for new players.  
+- **Dynamic combat system** managing multiple Vorax interactions and effects.  
+- **UI/UX optimizations** for clarity in a visually rich autobattler interface.
 
 ---
 
-## [Try it out now](https://eva-qube.itch.io/vorax-breakout)
+## Reflection
+
+Working on **Vorax Breakout** strengthened my skills in **system architecture, data-driven design, and player onboarding**.  
+It also showed how modular thinking and teamwork can transform a student prototype into a polished, expandable foundation.
+
+---
+
+## Link  
+
+- 🕹️ [Try out Vorax Breakout!](https://eva-qube.itch.io/vorax-breakout)
