@@ -2,7 +2,7 @@
 layout: post
 title: Supermarket Rush
 description: >
-  Supermarket Rush is a simple 3-lane runner game made in Unreal Engine with Blueprints. Players compete to reach the supermarket first while avoiding cars and collecting coins and power-ups.
+  Supermarket Rush is a 3-lane runner game made in Unreal Engine with Blueprints.
 image: 
   path: /assets/img/posts/SupermarketRush/SupermarketRush_Menu.png
 srcset:
@@ -15,7 +15,7 @@ sitemap: true
 hide_last_modified: true
 ---
 
-Developed in just **one week as a team project**, **Supermarket Rush** is a 3-lane runner game where players race to reach the supermarket while avoiding cars, collecting coins, and using power-ups to gain an advantage or hinder opponents.  
+Developed in just **one week as a team project**, **Supermarket Rush** is a 3-lane runner where players race to reach the supermarket while **avoiding cars, collecting coins, and using power-ups** to gain an edge or hinder opponents.
 
 <!--more-->
 

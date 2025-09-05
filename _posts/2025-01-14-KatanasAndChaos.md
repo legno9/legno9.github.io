@@ -2,7 +2,7 @@
 layout: post
 title: Katanas and Chaos
 description: >
-  Katanas and Chaos is a third-person dungeon crawler built in Unity, featuring multiple weapons, modular melee combat, and AI-driven enemies with diverse behaviors. 
+    Katanas and Chaos is a third-person dungeon crawler with modular melee combat and AI-driven enemies.
 image: 
   path: /assets/img/posts/KatanasAndChaos/KatanasAndChaos_Main.png
 srcset:
@@ -15,8 +15,7 @@ sitemap: true
 hide_last_modified: true
 ---
 
-**Katanas and Chaos** is a third-person dungeon crawler developed in Unity as a two-person collaborative project.
-The player starts imprisoned at the bottom of a castle and must fight their way through enemies, collect resources, and ultimately face a **Dark Souls-inspired boss battle**.  
+**Katanas and Chaos** is a third-person dungeon crawler developed in Unity as a **two-person collaboration**. Players fight through enemies, gather resources, and progress toward a challenging **Dark Souls-inspired boss battle**, with modular combat mechanics and varied enemy behaviors.
 
 <!--more-->
 

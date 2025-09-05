@@ -2,7 +2,7 @@
 layout: post
 title: Arima Lodge
 description: >
-  A short reflection on my work remaking Arima Lodge: fixing broken code, improving sounds and dialogues, and bringing a small jam game back to life with new energy."
+  A brief look at my work remaking Arima Lodge: fixing broken code, improving animations and dialogues, and revitalizing a small jam game.
 image: 
   path: /assets/img/posts/ArimaLodge/ArimaLodge_Main.png
 srcset:

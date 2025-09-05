@@ -2,7 +2,7 @@
 layout: post
 title: Neon N Bullets
 description: >
-  Neon N Bullets is an isometric bullet-hell adventure developed in Unreal Engine 4 using Blueprints. I handled all gameplay programming and player mechanics.
+  Neon N Bullets is an isometric bullet-hell game set in a dystopian, cyberpunk-inspired world.
 image: 
   path: /assets/img/posts/NeonNBullets/NeonNBullets_Main.png
 srcset:
@@ -15,7 +15,7 @@ sitemap: true
 hide_last_modified: true
 ---
 
-**Neon N Bullets** is an isometric bullet-hell game set in a dystopian, cyberpunk-inspired world. Developed as a team project, it combines **action-packed gameplay with a rich narrative**.
+**Neon N Bullets** is an isometric bullet-hell game developed in Unreal Engine 4 using Blueprints. I handled all **gameplay programming and player mechanics**, creating a fast-paced combat system and responsive controls in a **team project** setting.
 
 <!--more-->
 

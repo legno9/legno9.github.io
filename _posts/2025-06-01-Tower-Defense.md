@@ -2,7 +2,7 @@
 layout: post
 title: Tower Defense — C++ vs Unity
 description: >
-  Two takes on the same project: building a Tower Defense first in pure C++ with SFML and then recreating it in Unity, exploring the trade-offs of both approaches.
+    A Tower Defense game built first in C++ with SFML, then recreated in Unity, comparing different development approaches.
 image: 
   path: /assets/img/posts/TowerDefense/TowerDefense_Main.png
 srcset:
@@ -15,7 +15,7 @@ sitemap: true
 hide_last_modified: true
 ---
 
-I developed the same **Tower Defense game** twice, completely on my own: once in **pure C++ with SFML and CMake**, and a second time in **Unity with C#**. Each version explores different development approaches, highlighting trade-offs in **control, performance, modularity, and development speed**.  
+I developed the same **Tower Defense game** twice: first in **C++ with SFML**, then in **Unity with C#**. Each version explores different approaches, highlighting trade-offs in **control, performance, modularity, and development speed**.
 
 <!--more-->
 
