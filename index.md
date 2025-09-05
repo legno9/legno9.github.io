@@ -15,6 +15,6 @@ On this site you’ll find my **[latest projects](/projects/)**, technical solut
 When I’m not programming, I dive into indie games or test my patience on a Souls-like boss, all in search of design and gameplay inspiration.😉 
 {:.faded}
 
-## Latest Projects
+## Relevant Projects
 
-{% include latest-projects.html %}
+{% include relevant-projects.html %}

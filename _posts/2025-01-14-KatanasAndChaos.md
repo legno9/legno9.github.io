@@ -13,6 +13,7 @@ categories: [Unity]
 excerpt_separator: <!--more-->
 sitemap: true
 hide_last_modified: true
+weight: 500
 ---
 
 **Katanas and Chaos** is a third-person dungeon crawler developed in Unity as a **two-person collaboration**. Players fight through enemies, gather resources, and progress toward a challenging **Dark Souls-inspired boss battle**, with modular combat mechanics and varied enemy behaviors.

@@ -13,6 +13,7 @@ categories: [Unreal]
 excerpt_separator: <!--more-->
 sitemap: true
 hide_last_modified: true
+weight: 200
 ---
 
 As part of my learning process with **Unreal Engine**, I developed this project to **practice and visualize steering behaviours** in a simple yet interactive environment.  

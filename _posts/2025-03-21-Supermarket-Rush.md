@@ -13,6 +13,7 @@ categories: [Unreal]
 excerpt_separator: <!--more-->
 sitemap: true
 hide_last_modified: true
+weight: 100
 ---
 
 Developed in just **one week as a team project**, **Supermarket Rush** is a 3-lane runner where players race to reach the supermarket while **avoiding cars, collecting coins, and using power-ups** to gain an edge or hinder opponents.

@@ -13,6 +13,7 @@ categories: [Unreal]
 excerpt_separator: <!--more-->
 sitemap: true
 hide_last_modified: true
+weight: 400
 ---
 
 **Neon N Bullets** is an isometric bullet-hell game developed in Unreal Engine 4 using Blueprints. I handled all **gameplay programming and player mechanics**, creating a fast-paced combat system and responsive controls in a **team project** setting.

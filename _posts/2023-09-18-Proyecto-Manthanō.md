@@ -13,6 +13,7 @@ categories: [Unity]
 excerpt_separator: <!--more-->
 sitemap: true
 hide_last_modified: true
+weight: 300
 ---
 
 **Proyecto Manthanō** was my final degree project: a solo challenge to learn **Unity** while creating a complete game from scratch. The result is **Doom of Tools**, a 2D turn-based, deck-building roguelite inspired by **Slay the Spire** and **Into the Breach**.  

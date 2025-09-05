@@ -13,6 +13,7 @@ categories: [Unity]
 excerpt_separator: <!--more-->
 sitemap: true
 hide_last_modified: true
+weight: 600
 ---
 
 Everything started while I was working part-time with **Praenaris**. The studio asked me to **lead the remake of Arima Lodge**, a short narrative game originally born in a jam.  

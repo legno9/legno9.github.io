@@ -13,6 +13,7 @@ categories: [Unity, Unreal]
 excerpt_separator: <!--more-->
 sitemap: true
 hide_last_modified: true
+weight: 700
 ---
 
 I developed the same **Tower Defense game** twice: first in **C++ with SFML**, then in **Unity with C#**. Each version explores different approaches, highlighting trade-offs in **control, performance, modularity, and development speed**.

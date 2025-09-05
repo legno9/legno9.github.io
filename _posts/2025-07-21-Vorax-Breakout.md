@@ -13,6 +13,7 @@ categories: [Unity]
 excerpt_separator: <!--more-->
 sitemap: true
 hide_last_modified: true
+weight: 800
 ---
 
 In [**Vorax Breakout**](https://eva-qube.itch.io/vorax-breakout), players manage teams of creatures (Vorax) with unique abilities, strategizing their placement and energy before each automated, round-based battle. The game features preparation, combat, and reward phases, offering tactical depth and replayability.
